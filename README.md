@@ -77,7 +77,7 @@ python plot_oe_figs.py
 ## Citation
 
 ```
-D. Zhou, Z. Liu, R. Song, K. Li, S. Chen, Z. Wang, Y. Li, and X. Qi,
-"Calibrated test-time adaptation with risk-aware decision for cross-dataset
+D. Zhou,
+"Calibrated test-time adaptation with risk-aware decision-making for cross-dataset
 winter road-surface recognition," Optical Engineering (submitted, 2026).
 ```
